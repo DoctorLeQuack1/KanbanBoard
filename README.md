@@ -87,4 +87,4 @@ For any questions regarding this project, feel free to reach out to me at:
 ## Deployed Page
 
 You can access the deployed version of the Kanban app at:  
-🌐 [Kanban Board App](https://sergio-web-portfolio.web.app/)
+🌐 [Kanban Board App](https://kanbanboard-eob9.onrender.com)
